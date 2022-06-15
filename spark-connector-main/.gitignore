@@ -1,0 +1,14 @@
+# sbt artifacts
+.bsp
+
+# java artifacts
+*.class
+*.log
+target
+
+# ide artifacts
+.idea
+
+.venv
+__pycache__
+.DS_Store
