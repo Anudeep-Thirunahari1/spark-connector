@@ -2,7 +2,7 @@
 
 
 
-This repository contains the Spark connector project with the \*\*Weaviate Java client\*\* integration.  
+This repository contains the Spark connector project with the \*\*Anudeep Java client\*\* integration.  
 
 It allows seamless integration of Apache Spark with Weaviate for large-scale data processing and vector search.
 
